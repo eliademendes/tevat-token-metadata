@@ -1,0 +1,11 @@
+{
+  "name": "Tevat",
+  "symbol": "TEV",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Tevat é um token que impulsiona uma comunidade de ideias para melhorar o mundo.",
+  "website": "https://eliademendes.github.io/tevat-site/",
+  "explorer": "https://polygonscan.com/token/0x47e4Abb8c9d8E742E2fEd6825cA3f9d170Ef54AC",
+  "status": "active",
+  "id": "0x47e4Abb8c9d8E742E2fEd6825cA3f9d170Ef54AC"
+}
